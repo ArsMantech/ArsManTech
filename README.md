@@ -4,12 +4,7 @@ I'm a backend developer focused on building maintainable services, designing rel
 
 Beyond my main stack, I build automation tools and Telegram bots with Python, and I like getting hands-on with the tools and environments that power modern applications.
 
-<br>
-
-**Stack** &nbsp; TypeScript · JavaScript · NestJS · PostgreSQL · Prisma
-**Also** &nbsp;&nbsp; Python · C++ · Git · Docker · Postman
-
-<br>
+<img src="stack.svg" alt="Stack: TypeScript, JavaScript, NestJS, PostgreSQL, Prisma. Also Python, C++, Git, Docker, Postman" width="100%">
 
 **Interests**
 
@@ -17,8 +12,6 @@ Beyond my main stack, I build automation tools and Telegram bots with Python, an
 - Database design, data modeling, and efficient data access
 - Automation, scripting, and solving problems with Python
 - Developer workflows, infrastructure, and server-side environments
-
-<br>
 
 **Projects**
 
