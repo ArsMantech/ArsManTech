@@ -1,26 +1,34 @@
 
 <!--
   ArsManTech | Dark Purple GitHub Profile
-  Replace optional placeholders before publishing.
+  GitHub: https://github.com/ArsManTech
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,50:6D28D9,100:A78BFA&height=200&section=header&text=ArsManTech&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPMENT%20%7C%20BUILDING%20AND%20LEARNING&descAlignY=56&descSize=13" width="100%" alt="ArsManTech profile banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,50:6D28D9,100:A78BFA&height=210&section=header&text=ArsManTech&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BACKEND%20DEVELOPER%20%7C%20SYSTEMS%20THINKER&descAlignY=56&descSize=14"
+    width="100%"
+    alt="ArsManTech - Dark Purple Banner"
+  />
 
   <a href="https://github.com/ArsManTech">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+ArsManTech+%F0%9F%91%8B;Web+Development+%7C+Continuous+Learning;Building+ideas+into+reality." alt="Animated introduction"/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+ArsManTech+%F0%9F%91%8B;Backend+Development+%7C+TypeScript;Building.+Learning.+Improving."
+      alt="Animated introduction"
+    />
   </a>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-7C3AED?style=for-the-badge&labelColor=0D0B1A" alt="Focus: Web Development"/>
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-A78BFA?style=for-the-badge&labelColor=0D0B1A" alt="Always learning"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-7C3AED?style=for-the-badge&labelColor=0D0B1A" alt="Backend Engineering"/>
+  <img src="https://img.shields.io/badge/Language-TypeScript-A78BFA?style=for-the-badge&labelColor=0D0B1A" alt="TypeScript"/>
 
   <br/><br/>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-ArsManTech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArsManTech)
-  [![Profile Views](https://komarev.com/ghpvc/?username=ArsManTech&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/ArsManTech)
+  <a href="https://github.com/ArsManTech">
+    <img src="https://img.shields.io/badge/GitHub-ArsManTech-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
 
 </div>
 
@@ -28,38 +36,45 @@
 
 ## `whoami` 👾
 
-```text
-Name     : ArsManTech
-Focus    : Web Development
-Mindset  : Learn. Build. Improve. Repeat.
-Goal     : Turn ideas into useful digital experiences.
-```
+<p align="center">
+  <i>Backend Developer · Systems Thinker · Builder</i>
+</p>
 
-I'm a web development enthusiast focused on learning, building, and improving one project at a time.
+I'm a backend developer focused on building maintainable services, designing reliable APIs, and turning ideas into practical software.
 
-I believe in writing better code, exploring new ideas, and learning by doing.
+My day-to-day work revolves around **TypeScript, NestJS, and backend development**, with a focus on data-driven applications and reliable database interactions.
 
-- 💻 Exploring the world of web development
-- 🧩 Learning through hands-on projects
-- 🌱 Always improving my skills
-- 🎯 Working toward building better digital experiences
+Beyond my main stack, I enjoy building automation tools and Telegram bots with Python, exploring different areas of software development, and getting hands-on with the tools and environments that power modern applications.
+
+I'm particularly interested in:
+
+- ⚙️ Building maintainable backend systems and well-structured APIs
+- 🗄️ Database design, data modeling, and efficient data access
+- 🐍 Automation, scripting, and solving problems with Python
+- 🐳 Developer workflows, infrastructure, and server-side environments
+
+I believe in learning by building, improving through practice, and finding better ways to solve problems through code.
 
 ---
 
-## `tech_stack` 🛠️
+## `the_toolbox` 🛠️
 
-<!--
-Add only technologies you actually use.
-Uncomment and customize the Skill Icons image below when ready.
-
-Example:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="My technology stack"/>
+  <b>01 / Core Stack</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,postgres,prisma&theme=dark" alt="TypeScript, JavaScript, NestJS, PostgreSQL and Prisma"/>
 </p>
--->
 
 <p align="center">
-  <i>My tools and technologies will be listed here as I build my stack.</i>
+  <b>02 / Languages & Development Tools</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,git,docker,postman&theme=dark" alt="Python, C++, Git, Docker and Postman"/>
+</p>
+
+<p align="center">
+  <sub>
+    From application logic and data layers to automation and development workflows.
+  </sub>
 </p>
 
 ---
@@ -68,42 +83,60 @@ Example:
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArsManTech&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6&ring_color=A78BFA" alt="ArsManTech GitHub statistics"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ArsManTech&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6&ring_color=A78BFA"
+    alt="ArsManTech GitHub Statistics"
+  />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsManTech&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB" alt="Most used public repository languages"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsManTech&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB"
+    alt="Most Used Languages in Public Repositories"
+  />
 
 </div>
 
 ---
 
-## `activity` ⚡
+## `contribution_activity` ⚡
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=ArsManTech&hide_border=true&background=0D0B1A&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=ArsManTech&hide_border=true&background=0D0B1A&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
+    alt="GitHub Contribution Streak"
+  />
 
 </div>
 
 ---
 
-## `featured_projects` 🚀
+## `projects` 🚀
+
+I enjoy turning ideas into working software, experimenting with different approaches, and building tools that solve real problems.
+
+Explore my repositories to see what I'm building and learning.
+
+<div align="center">
+
+  <a href="https://github.com/ArsManTech?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+
+</div>
 
 <!--
-Add your best 2–4 projects here.
-Use real repository URLs and describe what each project does.
-
-Example:
+Add your best projects here when you're ready.
 
 ### Project Name
-A short description of the problem it solves.
+A concise description of what it does and why you built it.
 
-- **Built with:** your actual technologies
-- **Highlights:** one interesting feature
+- Built with: your actual technologies
+- Highlights: a feature or technical challenge
 
-[View repository](https://github.com/ArsManTech/your-repository)
+[View Repository](https://github.com/ArsManTech/your-repository)
 -->
-
-I'm continuously working on learning, experimenting, and building. Check out my repositories to see what I'm exploring.
 
 ---
 
@@ -112,7 +145,7 @@ I'm continuously working on learning, experimenting, and building. Check out my 
 <div align="center">
 
   <a href="https://github.com/ArsManTech">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories"/>
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my GitHub journey"/>
   </a>
 
   <br/><br/>
@@ -121,6 +154,10 @@ I'm continuously working on learning, experimenting, and building. Check out my 
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,50:6D28D9,100:A78BFA&height=100&section=footer" width="100%" alt="Purple gradient footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,50:6D28D9,100:A78BFA&height=110&section=footer"
+    width="100%"
+    alt="Dark Purple Footer"
+  />
 
 </div>
